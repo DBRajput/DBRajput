@@ -1,6 +1,6 @@
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello Everyone <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoyalTechie.RoyalTechie)
 <br>
+
 <h3> Hi there I am Digvijaysing Rajput -aka RoyalTechie </h3>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right" >
 <ul>
@@ -12,7 +12,10 @@
 <li>- 😄 Pronouns: Champ </li>
 <li>- ⚡ Fun fact: I am still student </li>
 </ul>
----
-<h2>Github Wrapped</h2>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RoyalTechie/repos?time_range=one_year&include_private=True)](https://githubtrends.io)
-</div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoyalTechie.RoyalTechie)
+
+<h3>Github Public Repo Work</h3>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/RoyalTechie/langs?time_range=one_year&include_private=True" />
+</a>
