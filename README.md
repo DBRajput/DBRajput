@@ -13,9 +13,9 @@
 <li>- ⚡ Fun fact: I am still student </li>
 </ul>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DBRajput.DBRajput)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RoyalTechie.RoyalTechie)
 
 <h3>Github Public Repo Work</h3>
 <a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/DBRajput/langs?time_range=one_year&include_private=True" />
+  <img align="center" src="https://api.githubtrends.io/user/svg/RoyalTechie/langs?time_range=one_year&include_private=True" />
 </a>
