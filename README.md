@@ -10,5 +10,5 @@
 <li>- 💬 Ask me about anything regarding Technology </li>
 <li>- 📫 To Meet me find me </li>
 <li>- 😄 Pronouns: Champ </li>
-<li>- ⚡ Fun fact: I am still student </li>
+<li>- ⚡ Fun fact: ..... </li>
 </ul>
